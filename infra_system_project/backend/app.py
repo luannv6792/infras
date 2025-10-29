@@ -1,1 +1,0 @@
-print('Backend Flask app running')
